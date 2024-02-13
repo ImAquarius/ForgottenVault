@@ -1,0 +1,5 @@
+name: ForgottenVault
+version: '${project.version}'
+main: io.github.imaquarius.forgottenvault.ForgottenVault
+api-version: '1.18'
+depend: [EDPrison]
